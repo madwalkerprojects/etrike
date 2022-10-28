@@ -7,3 +7,5 @@ This sketch is used in the DIY Arduino Controlled Electric Tricycle for kids. Th
 Part 1: https://www.youtube.com/watch?v=KHLfpjzK5O8
 
 Part 2: https://www.youtube.com/watch?v=eJtuKRBo77M
+
+![Title](title.jpg?raw=true "Title")
